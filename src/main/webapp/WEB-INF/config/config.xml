@@ -1,0 +1,11 @@
+<config>
+	<actionhandlerclass value="">
+		<uiactions>
+			<uiaction>
+				<action-name></action-name>
+				<success-page></success-page>
+				<error-page></error-page>
+			</uiaction>
+		</uiactions>
+	</actionhandlerclass>
+</config>
